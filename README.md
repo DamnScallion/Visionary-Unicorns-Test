@@ -3,10 +3,10 @@ Just for testing some CV tools perform
 
 ## Useful git commands:
 
-#### Git clone
+### Git clone
 git clone <https://name-of-the-repository-link>
 
-#### Git branch
+### Git branch
 ###### Creating a new branch:
 git branch <branch-name>
 ###### Viewing branches:
@@ -14,17 +14,17 @@ git branch or git branch --list
 ###### Deleting a branch:
 git branch -d <branch-name>
 
-#### Git add
+### Git add
 ###### To add everything at once:
 git add .
 
-###### Git commit
+### Git commit
 git commit -m "commit message"
 
-#### Git pull
+### Git pull
 git pull <remote>
 
-#### Git push
+### Git push
 git push <remote> <branch-name>
 
 ## Git Sample Usage:
