@@ -22,4 +22,4 @@ git branch <branch-name>
 ###### Viewing branches:
 git branch or git branch --list
 ###### Deleting a branch:
-git branch -d <branch-name>
+git branch -d '<branch-name>'
