@@ -3,13 +3,13 @@ Just for testing some CV tools perform
 
 
 ## Git Sample Usage:
-###### Pull updated source code from remote branch <main> and merge it with you local branch code
+###### Pull updated source code from remote branch '<main>' and merge it with you local branch code
 git pull origin main
 ###### Add all locally changed files ready for commit
 git add .
 ###### Save all changed files as a checkpoint ready for push
 git commit -m 'feature: yolo bbox attributes deconstruction'
-###### Push these changed files to a remote repository at <main> branch
+###### Push these changed files to a remote repository at '<main>' branch
 git push origin main
 
 
