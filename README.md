@@ -3,13 +3,13 @@ Just for testing some CV tools perform
 
 
 ## Git Sample Usage:
-###### Pull updated source code from remote branch '<main>' and merge it with you local branch code
+###### Pull updated source code from remote branch MAIN and merge it with you local branch code
 git pull origin main
 ###### Add all locally changed files ready for commit
 git add .
 ###### Save all changed files as a checkpoint ready for push
 git commit -m 'feature: yolo bbox attributes deconstruction'
-###### Push these changed files to a remote repository at '<main>' branch
+###### Push these changed files to a remote repository at branch MAIN
 git push origin main
 
 
@@ -18,8 +18,8 @@ git push origin main
 git clone <https://name-of-the-repository-link>
 ### Git branch
 ###### Creating a new branch:
-git branch <branch-name>
+git branch BRANCH-NAME
 ###### Viewing branches:
 git branch or git branch --list
 ###### Deleting a branch:
-git branch -d '<branch-name>'
+git branch -d BRANCH-NAME
